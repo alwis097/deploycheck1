@@ -20,7 +20,6 @@ ordereddict==1.1
 protobuf==3.19.4
 pyOpenSSL==22.0.0
 python-dotenv==0.19.2
-pywin32==301
 simplejson==3.17.6
 tornado==6.1
 typing_extensions==4.1.1
