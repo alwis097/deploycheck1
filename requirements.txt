@@ -25,6 +25,5 @@ tornado==6.1
 typing_extensions==4.1.1
 unicodedata2==14.0.0
 watchdog==2.1.6
-xmlrpclib==1.0.1
 zipp==3.7.0
 gunicorn
